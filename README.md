@@ -24,6 +24,4 @@ This project contails two actors
   
   I have integrated the sms api for the authentication(otp) purpose later it was replaced by the PHP mailer function becuase of the trai regulations.
   
-  To Download and install you have to make the following changes,
-  
-    ->edit the 
+ 
